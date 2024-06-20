@@ -1,5 +1,5 @@
 ```
-go get github.com/developers-along-the-way/mobspec@latest
+go get github.com/absolute-algorithmic/MobSpecs@latest
 ```
 
 
@@ -9,7 +9,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/developers-along-the-way/mobspec"
+	"github.com/absolute-algorithmic/MobSpecs"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/developers-along-the-way/mobspec"
+	"github.com/absolute-algorithmic/MobSpecs"
 )
 
 func TestReadCSV(t *testing.T) {

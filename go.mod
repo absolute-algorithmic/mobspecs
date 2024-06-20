@@ -1,3 +1,3 @@
-module github.com/developers-along-the-way/mobspec
+module github.com/absolute-algorithmic/MobSpecs
 
 go 1.22.3
